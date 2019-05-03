@@ -1,0 +1,35 @@
+.Searchbar{
+    display: inline-block;
+}
+.Search-Input{
+    width:100%;
+    border-radius: 8px;
+    z-index:1;
+    padding-left:25%;
+    height:36px;
+}
+.Search-Select{
+    height:36px;
+    vertical-align:top;
+    width:25%;
+    font-size:15px !important;
+    border-radius: 8px ;
+    float:left;
+    margin-bottom:-14% ;
+    position: relative;
+    background-color:rgb(200, 191, 191);
+}
+.fa-caret-down {
+    float:right;
+    margin-right:9%;
+    margin-top:-7%;
+    position: relative;
+    color:grey;
+    }
+.fa-search {
+    float:right;
+    margin-right:2%;
+    margin-top:-7%;
+    position: relative;
+    color:grey;
+    }

@@ -1,0 +1,11 @@
+.Prodct-Content{
+    display:flex;
+}
+.Product-Sidebar{
+    min-height: 83.5vh;
+    width:15%;
+    border-right:2px solid rgb(204, 198, 198);
+}
+.Product-ProductList{
+    width: 85%;
+}

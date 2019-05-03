@@ -1,0 +1,6 @@
+.Product{
+    padding:0.3%;
+  }
+.Product-Border{
+border:solid 2px rgb(101, 103, 160);
+}

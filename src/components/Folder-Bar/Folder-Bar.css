@@ -1,0 +1,16 @@
+.Folder-Bar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 241, 241);
+    border-bottom:1px solid rgb(204, 198, 198);
+}
+.Folder-Name{
+    margin-left:5%;
+}
+.Folder-Icon{
+    margin-top: 2%;
+    margin-right:3%;
+}
+.Content-Border{
+    border-bottom:1px solid rgb(204, 198, 198);
+}

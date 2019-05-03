@@ -1,0 +1,61 @@
+
+.Compare-Item-Title{
+    /* width:40%; */
+    height:26%;
+    border-top:2px solid rgb(187, 183, 183);
+    border-right:2px solid rgb(187, 183, 183);
+    
+}
+.Compare-Item-Firstline{
+    padding:1.5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Compare-Item-Verified{
+    
+    float:right;
+    font-size:0.7em;
+    color:rgba(67, 119, 230, 0.89);
+}
+.Compare-Item-Image{
+    width:18%;
+}
+.Compare-Item-Container{
+    height:100%;
+}
+.Compare-Item-Row{
+    height:100px;
+}
+.Compare-Item-Title{
+    height:7rem;
+}
+
+.Compare-Item-Header{
+    
+    height:2rem;
+    padding:0.5% 0 0.5% 2%;
+    display:flex;
+    justify-content: flex-start;
+    border-top:2px solid rgb(187, 183, 183);
+    border-bottom:2px solid rgb(187, 183, 183);
+    border-right:2px solid rgb(187, 183, 183);
+}
+.Compare-Item-Right{
+    
+    border-right:2px solid rgb(187, 183, 183);
+}
+.Compare-Item-Desc{
+    height:1.7rem;
+    border-bottom: 2px solid rgb(246, 245, 245);
+}
+.Compare-Item-Split{
+    display: flex;
+}
+.Compare-Item-Split-Left{
+    width:25%;
+    background-color:rgb(243, 243, 243);
+}
+.Compare-Item-Split-Right{
+    width:25%;
+}

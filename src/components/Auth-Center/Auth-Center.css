@@ -1,0 +1,12 @@
+.Logo {
+  height: 20vmin;
+  width: 40vmin;
+  pointer-events: none;
+  }
+.Text-Display{
+  margin-top:8px;
+  font-weight: 500;
+  font-size: 0.8em;
+  color: rgb(109, 108, 108);
+}
+  
