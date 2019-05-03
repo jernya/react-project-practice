@@ -1,0 +1,56 @@
+.Bottom-Border{
+    border-bottom:1px solid rgb(204, 198, 198);
+}
+/* ========Search Title============== */
+.Side-Title{
+    display: flex;
+    justify-content: space-between;
+    padding:2%;
+}
+.Title-Search{
+    margin-left:7%;
+}
+.Title-Btn {
+    width:30%;
+    margin-left: 5%;
+    color:white;
+    background-color: rgb(146, 145, 145)
+}
+
+/* ==========choose Type============ */
+.Side-Type{
+    display: flex;
+    justify-content: space-between;
+}
+.Type-Product{
+    background-color: rgb(79, 131, 173);
+    color:white;
+    width:50%;
+    border-right:1px solid rgb(204, 198, 198);
+}
+.Type-Project{
+    margin-right:12%;
+}
+
+
+/* ===========Model year======= */
+.Side-Model{
+    padding:2% 2% 0.1% 2% ;
+}
+.Model-Year{
+    float: left;
+    margin-left:1%;
+}
+.Model-Input{
+    margin-left:47%;
+    display: flex;
+}
+hr{
+    margin-top:10% !important;
+    width:10px;
+    /* size:1000 !important; */
+}
+.Input-Year{
+    height:22px !important;
+    width:43%;
+}

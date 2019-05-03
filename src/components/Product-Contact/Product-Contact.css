@@ -1,0 +1,64 @@
+.Product-Contact{
+    padding:0.5% 1%;
+}
+.Product-Contact-Title{
+    color:rgb(6, 60, 161);
+    font-size: 1.5em;
+    font-weight: 600;
+    display:flex;
+    justify-content: flex-start;
+    margin-bottom:0.5%;
+}
+.Product-Contact-List{
+    display: flex;
+}
+.Contact-Left{
+    width:45%;
+}
+.Contact-Header{
+    padding:0.5% 0 0.5% 1%;
+    display:flex;
+    justify-content: flex-start;
+    border-top:1px solid rgb(187, 183, 183);
+    border-bottom:1px solid rgb(187, 183, 183);
+}
+.Contact-Content{
+    display: flex;
+}
+.Description-Left{
+    padding-left:1%;
+    text-align: left;
+    width:40%;
+    background-color:rgb(243, 243, 243);
+}
+.Description-Right{
+    padding-left:1%;
+    text-align: left;
+    width:60%;
+}
+.Right-Desc{
+    border-bottom: 1px solid rgb(246, 245, 245);
+}
+.Contact-Gap{
+    width:3%;
+}
+.Contact-Right{
+    width:45%;
+}
+.Right-Desc-Split{
+    display: flex;
+}
+.Split-Left{
+    text-align: center;
+    margin-left:-2%;
+    width:25%;
+    background-color:rgb(243, 243, 243);
+}
+.Split-Right{
+    text-align: center;
+    width:25%;
+}
+
+.Contact-Web{
+    color:rgb(6, 60, 161);
+}

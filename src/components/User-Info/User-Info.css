@@ -1,0 +1,31 @@
+.User-Info{
+    width:200px;
+    height:100px;
+    display: flex;
+    justify-content: space-between;
+}
+.UserName{
+    position: relative;
+    margin-top:17%;
+    font-size:1.5em;
+}
+.UserImage{
+    width:50%;
+    border-radius: 50%;
+}
+
+/* .UserName{
+    position: relative;
+    margin-top:3%;
+    margin-right:-70%;
+    font-size: 1.5em;
+    color:black;
+}
+.UserImage{
+    width:7%;
+    float:right;
+    border-radius: 50%;
+    position: relative;
+    margin-top:-4%;
+    margin-right:3%;
+} */

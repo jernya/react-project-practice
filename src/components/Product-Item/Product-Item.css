@@ -1,0 +1,48 @@
+.thumbnail{
+    padding :0;
+    border:1px solid rgb(204, 198, 198);
+}
+.Item-Verify{
+    float:right;
+    font-size:0.7em;
+    color:rgba(67, 119, 230, 0.89);
+    margin-top:1%;
+    margin-right:1%;
+}
+.Item-Pic{
+    width:75%;
+}
+.Item-Brand, .Item-Series, .Item-Model{
+    text-align: center;
+    color:rgb(6, 60, 161);
+    font-weight: 600;
+}
+.Item-Tech{
+    background-color: rgba(158, 157, 155, 0.157);
+    margin:1% 0 1% 0;
+    padding:1% 0 1% 0;
+}
+.Item-Spec{
+    color:rgb(190, 14, 14);
+}
+.Item-Bottom{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+    margin-top:2%;
+    padding-right:5%;
+}
+.Item-Compare{
+    width:18%;
+    display: flex;
+    justify-content: space-between;
+    margin-left:10%;
+    padding-top:1.7%;
+}
+.Compare-Input{
+    margin-top:7%;
+}
+.Item-Add-Button{
+    padding:0;
+    width:300px !important;
+}

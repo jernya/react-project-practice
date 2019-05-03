@@ -1,0 +1,47 @@
+.Product-Compare{
+    padding:0.3%;
+  }
+.Compare-Border{
+    border:solid 2px rgb(101, 103, 160);
+    min-height: 98vh;
+}
+
+.Product-Compare-Link{
+    display:flex;
+    justify-content:flex-start;
+    padding: 0.5% 0 0.5% 2%;
+    border-bottom:2px solid rgb(204, 198, 198);                                                                    
+}
+.Compare-List{
+    display:flex;
+    padding:2%;
+}
+.Compare-Left-Bar{
+    width:25%;
+}
+.Compare-Left-Top-Space{
+    height:7rem;
+    border-right:2px solid rgb(187, 183, 183);
+}
+
+.Compare-Header{
+    height:2rem;
+    padding:0.5% 0 0.5% 2%;
+    display:flex;
+    justify-content: flex-start;
+    border-top:2px solid rgb(187, 183, 183);
+    border-bottom:2px solid rgb(187, 183, 183);
+    border-left:2px solid rgb(187, 183, 183);
+    border-right:2px solid rgb(187, 183, 183);
+}
+
+.Compare-Description{
+    padding-left:2%;
+    text-align: left;
+    background-color:rgb(243, 243, 243);
+    border-left:2px solid rgb(187, 183, 183);
+    border-right:2px solid rgb(187, 183, 183);
+}
+.Compare-Desc-Name{
+    height:1.7rem;
+}

@@ -1,0 +1,82 @@
+[
+   
+    {
+        "Platform":"Mechanical","ProductType":"HVAC Fans", "Manufacturer":"Big Ass","Year":"2017",
+        "Series":"Haiku H ", "Model":"S3150-S0-BC-04-01-c-01",
+        "Technical":{
+            "Airflow":"6604","Power":{"Min":"1","Max":"25"},"Speed":{"Min":"1","Max":"34"},"SweepDiameter":"60"},
+        "PastSpec":{"Firm":"8", "Global":"1132"}, "Certifications":"05/21/2016",
+        "Details":["Airfoils – Moso bamboo – 60 diameter", 
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White",
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White"],
+        "Contact":{
+            "Sales":{
+                "Name":"Marty", "Phone":"+1 111 111 2222", "Email":"marty@marty.com","Web":"www.marty.com"
+            },
+            "Manufacturer":{
+                "Department":"Marty", "Phone":"+1 222 222 3333", "Email":"support@emerson.com","Web":"www.emerson.com"
+                }
+        }
+    },
+    {
+        "Platform":"Mechanical","ProductType":"HVAC Fans", "Manufacturer":"Emerson", "Year":"2019",
+        "Series":"Luray Eco ", "Model":"CF860",
+        "Technical":{
+             "Airflow":"7500","Power":{"Min":"1","Max":"33"},"Speed":{"Min":"1","Max":"33"},"SweepDiameter":"60"
+        }, 
+        "PastSpec":{"Firm":"10", "Global":"1492"}, "Certifications":"08/21/2013",
+        "Details":["Airfoils – Moso bamboo – 60 diameter", 
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White",
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White"],
+        "Contact":{
+            "Sales":{
+                "Name":"Marty", "Phone":"+1 111 111 2222", "Email":"marty@marty.com","Web":"www.marty.com"
+            },
+            "Manufacturer":{
+                "Department":"Marty", "Phone":"+1 222 222 3333", "Email":"support@emerson.com","Web":"www.emerson.com"
+         }
+        }
+     },
+     {
+        "Platform":"Mechanical","ProductType":"HVAC Fans", "Manufacturer":"Emerson", "Year":"2019",
+        "Series":"Luray Eco ", "Model":"CF861",
+        "Technical":{
+             "Airflow":"6500","Power":{"Min":"1","Max":"33"},"Speed":{"Min":"1","Max":"33"},"SweepDiameter":"60"
+        }, 
+        "PastSpec":{"Firm":"10", "Global":"1492"}, "Certifications":"08/21/2016",
+        "Details":["Airfoils – Moso bamboo – 60 diameter", 
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White",
+            "Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo",
+            "Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White"],
+        "Contact":{
+            "Sales":{
+                "Name":"Marty", "Phone":"+1 111 111 2222", "Email":"marty@marty.com","Web":"www.marty.com"
+            },
+            "Manufacturer":{
+                "Department":"Marty", "Phone":"+1 222 222 3333", "Email":"support@emerson.com","Web":"www.emerson.com"
+         }
+        }
+     },
+     {
+        "Platform":"Mechanical","ProductType":"HVAC Fans", "Manufacturer":"Big Ass","Year":"2017",
+        "Series":"Haiku H ", "Model":"S3150-S0-BC-04-01-c-03",
+        "Technical":{
+            "Airflow":"6604","Power":{"Min":"1","Max":"25"},"Speed":{"Min":"1","Max":"34"},"SweepDiameter":"60"},
+        "PastSpec":{"Firm":"8", "Global":"1132"}, "Certifications":"05/21/2016",
+        "Details":"Airfoils – Moso bamboo – 60 diameter Airfoil Finishes – Caramel Bamboo or Cocoa Bamboo Hardware Finishes – Satin Nickel, Oil-Rubbed Bronze, Black or White",
+        "Contact":{
+            "Sales":{
+                "Name":"Marty", "Phone":"+1 111 111 2222", "Email":"marty@marty.com","Web":"www.marty.com"
+            },
+            "Manufacturer":{
+                "Department":"Marty", "Phone":"+1 222 222 3333", "Email":"support@emerson.com","Web":"www.emerson.com"
+                }
+        }
+    }
+]     
+   

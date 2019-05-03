@@ -1,0 +1,18 @@
+.Product-List{
+    padding: 1% 8% 1% 0;
+}
+.Product-List-Link{
+    display:flex;
+    justify-content:flex-start;
+    margin-left:0.5%;
+}
+.Product-List-container{
+    width:100%;
+    padding-left:1%;
+}
+/* .List-Item{
+    border:1px solid rgb(204, 198, 198);
+    margin-left:0.5%;
+    margin-top:0.5%;
+    padding:0 !important;
+} */
